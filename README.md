@@ -2,6 +2,9 @@
 
 **SovereignAISearch** is a cutting-edge, decentralized AI search engine built on Web3 principles, emphasizing user data sovereignty, privacy, and security while leveraging advanced AI for a personalized search experience.
 
+<img width="1364" alt="SovereignAISearch" src="https://github.com/user-attachments/assets/a849bd76-8060-4738-a3ad-efdd59dd24a2">
+
+
 ## Key Features
 
 ### Decentralized Storage
